@@ -9,7 +9,7 @@ For more information about Penn State Harrisburg, visit https://harrisburg.psu.e
 
 Dr. Tsotakos received his B.S. in Biology from the Aristotle University of Thessaloniki, and his Ph.D. from the Natioonal Kapodistrian University of Athens, Greece. He performed postdoctoral research at the Penn State College of Medicine at Hershey, PA, before starting his education career as a Visitng Assistant Professor of Biology at Dickinson College in Carlisle, PA, in 2017. Since 2018, he is an Assistant Professor of Biology at Penn State Harrisburg.
 
-### Join us!
+## Join us!
 
 The Tsotakos Lab invites undergraduate students to participate in research on any one of the following projects:
 
@@ -30,7 +30,7 @@ Fibronectin is a protein that accumulates in fibrotic tissue. There is evidence 
 For this project, we aim to determine the role of FIRRE, a long non-coding RNA, in the differentiation of neurons, using the SH-SY5Y *in vitro* differentiation system.
 
 
-### Education
+## Education
 
 In the fall 2020 semester, Dr. Tsotakos is teaching the following classes:
 
