@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Welcome to the Tsotakos Lab!!!
+## The Tsotakos Lab focuses on characterizing the role of non coding RNAs during development and in various states of disease.
 
-You can use the [editor on GitHub](https://github.com/ntsotakos/fossprofile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page will be updated as necessary.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more information about Penn State Harrisburg, visit https://harrisburg.psu.edu/.
 
-### Markdown
+### Dr. Tsotakos' background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dr. Tsotakos received his B.S. in Biology from the Aristotle University of Thessaloniki, and his Ph.D. from the Natioonal Kapodistrian University of Athens, Greece. He performed postdoctoral research at the Penn State College of Medicine at Hershey, PA, before starting his education career as a Visitng Assistant Professor of Biology at Dickinson College in Carlisle, PA, in 2017. Since 2018, he is an Assistant Professor of Biology at Penn State Harrisburg.
 
-```markdown
-Syntax highlighted code block
+### Join us!
 
-# Header 1
-## Header 2
-### Header 3
+The Tsotakos Lab invites undergraduate students to participate in research on any one of the following projects:
 
-- Bulleted
-- List
+#### Role of lncRNA MEG3 in diabetic kidney disease.
 
-1. Numbered
-2. List
+MEG3 is a long non-coding RNA that is highly upregulated in an *in vitro* model of diabetic kidney disease. This project aims to determine its role in the pathogenesis and/or progression of the disease by using advanced molecular techniques, such as CRISPR.
 
-**Bold** and _Italic_ and `Code` text
+####  Role of a circRNA from the *FN1* locus in progression of fibrosis.
 
-[Link](url) and ![Image](src)
-```
+Fibronectin is a protein that accumulates in fibrotic tissue. There is evidence that circular RNAs form from the FN1 gene. In this project, we aim to determine whether these circular RNAs play a critical role in the development of fibrosis.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Effects of *Moringa oleifera* extract on the health of diabetic kidney cells
 
-### Jekyll Themes
+*Moringa oleifera* has been shown to have renoprotective properties, but the molecular mechanisms are unclear. In this project, we aim to characterize the mechanism of renoprotection as well as establishing the time frame following injury at which a *M. oleifera* extract maintains its beneficial properties.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ntsotakos/fossprofile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Role of lncRNA FIRRE in neuron differentiation
 
-### Support or Contact
+For this project, we aim to determine the role of FIRRE, a long non-coding RNA, in the differentiation of neurons, using the SH-SY5Y *in vitro* differentiation system.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Education
+
+In the fall 2020 semester, Dr. Tsotakos is teaching the following classes:
+
+#### MICRB 201: General Microbiology
+
+#### BIOL 451: Biology of RNA
+
+#### BIOL 430: Developmental Biology
