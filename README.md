@@ -3,7 +3,7 @@
 
 This page will be updated as necessary.
 
-For more information about Penn State Harrisburg, visit https://harrisburg.psu.edu/.
+For more information about Penn State Harrisburg, visit [https://harrisburg.psu.edu/](https://harrisburg.psu.edu).
 
 ### Dr. Tsotakos' background
 
