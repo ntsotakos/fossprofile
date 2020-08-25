@@ -34,7 +34,7 @@ For this project, we aim to determine the role of FIRRE, a long non-coding RNA, 
 
 In the fall 2020 semester, Dr. Tsotakos is teaching the following classes:
 
-#### [MICRB 201: General Microbiology](MICRB 201.md)
+#### [MICRB 201: General Microbiology](/MICRB 201.md)
 
 #### BIOL 451: Biology of RNA
 
